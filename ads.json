@@ -1,1 +1,18 @@
-{}
+{
+    "gluu-flex-installation-testing": {
+        "projectName": "gluu-flex-installation-testing",
+        "description": "Testing out the proper installation",
+        "type": "community",
+        "author": "BJimmyraja",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/BJimmyraja/Gluu_Installation_Poc",
+        "githubUri": "https://github.com/BJimmyraja/Gluu_Installation_Poc",
+        "license": "MIT",
+        "lastUpdated": "1697001993773",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
